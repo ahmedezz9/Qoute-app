@@ -1,0 +1,23 @@
+.container{
+    width: 75%;
+    margin: auto;
+}
+.container .content{
+    text-align: center;
+}
+.container .content h1{
+    font-weight: bolder;
+    font-size: xxx-large;
+}
+
+.container .content p{
+font-size: 32px;
+}
+.container  button{
+    padding: 30px 60px;
+    background-color: green;
+    color: white;
+}
+.container button:hover{
+    background-color: blue;
+}
